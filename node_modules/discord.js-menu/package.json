@@ -1,0 +1,27 @@
+{
+  "name": "discord.js-menu",
+  "version": "2.3.1",
+  "description": "💬 Easily create Discord.js embed menus with reactions and unlimited customisable pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jowsey",
+  "license": "MIT",
+  "repository": "https://github.com/jowsey/discord.js-menu",
+  "keywords": [
+    "discord",
+    "discord-js",
+    "discord-bot",
+    "discord-api",
+    "discordapp",
+    "library",
+    "bot",
+    "menu",
+    "framework",
+    "discordjs"
+  ],
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
